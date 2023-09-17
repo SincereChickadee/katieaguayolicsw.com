@@ -1,0 +1,28 @@
+h1, h2 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+strong {
+    font-weight: bolder;
+}
+
+.emphasis {
+    font-size: 1.25rem;
+}
+
+.me {
+    text-align: center;
+    max-width: 680px;
+}
+
+.content {
+  max-width: 680px;
+  margin: auto;
+  font-family: 'Roboto, Roboto Bold';
+  font-size: 1rem;
+}
+
+.address {
+    text-align: center;
+}
