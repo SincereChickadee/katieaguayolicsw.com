@@ -13,7 +13,10 @@ strong {
 
 .me {
     text-align: center;
-    max-width: 680px;
+    max-width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .content {
@@ -25,4 +28,7 @@ strong {
 
 .address {
     text-align: center;
+    color: rgb(62, 150, 165);
+    font-weight: bolder;
+    font-size: 1.15rem;
 }
